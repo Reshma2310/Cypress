@@ -1,0 +1,22 @@
+{
+  "boards": [],
+  "tasks": [],
+  "users": [
+    {
+      "email": "reshma@gmail.com",
+      "password": "$2a$10$d54Csc7wC30.eUL4BVRpYePCGGOzXZtXzMdtFYu/bPhzW3ewXZQT.",
+      "id": 1
+    },
+    {
+      "email": "reshma12@gmail.com",
+      "password": "$2a$10$WseV/jl24uBwRK7Ui.zrZ.SSP5frF77Uj8b46wrcDOwVdRihSDnCW",
+      "id": 2
+    },
+    {
+      "email": "reshma13@gmail.com",
+      "password": "$2a$10$eEgcfaacsOUDQq8YBAKHhe9RvW/lNTiG/re3sAFxPWYnnn0O2TAmS",
+      "id": 3
+    }
+  ],
+  "lists": []
+}
